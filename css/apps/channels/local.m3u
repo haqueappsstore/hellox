@@ -1,0 +1,80 @@
+#EXTM3U
+#EXT-X-VERSION:3 
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/7DKPT1P.jpg" group-title="",Colors Bangla
+http://robi.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/522sPtH7/Star-Jalsha-logo.jpg" group-title="",Star Jalsha
+http://iptv.kitv.live:1935/live/Shari/MTV-P/22.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/CxnqLy9M/Jalsha-movies.png" group-title="",Star Jalsha Movies
+http://iptv.kitv.live:1935/live/Shari/MTV-P/25.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/R0RVvXCV/zee-bangla-cinema-logo-zee-cinema-bengali-language-png-favpng-EGC6a-FQLMr-Sk-Pamz03c-LVYU4-L.jpg" group-title="",Zee Bangla
+http://iptv.kitv.live:1935/live/Shari/MTV-P/21.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/52rggYHx/download.png" group-title=",Sony Aath
+http://ccn.anytv.live:8080/sonyaath/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="CCN",Sony TV
+http://ott.bingebd.com:443/live/ngrp:sony_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png" group-title="INDIAN (Free)",Sony SAB
+http://ott.bingebd.com:443/live/ngrp:sab_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="INDIAN (Free)",Colors HD
+http://ott.bingebd.com:443/live/ngrp:colors_hd_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="CCN",Sony Max
+http://ott.bingebd.com:443/live/ngrp:sony_max_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="CCN",Sony Max Hd
+http://iptv.kitv.live:1935/live/Shari/MTV-P/31.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="IND. MOVIES (Free)",Sony Max 2
+http://ott.bingebd.com:443/live/ngrp:sony_max_2_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v9QJ1co.jpg" group-title="IND. MOVIES (Free)",SONY WAH
+http://load.airtel.tv/sonywah/smil:common.smil/chunklist_b896000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="CCN",&Tv
+http://45.249.187.238:8081/hls/tsl-6.m3u8
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="CCN",&Picture HD
+http://45.249.187.238:8081/hls/tsl-2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/pVDxvs0N/Star-Plus-logo.jpg" group-title="",STAR PLUS HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/27.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/pVDxvs0N/Star-Plus-logo.jpg" group-title="",STAR PLUS SD
+http://ott.bingebd.com:443/live/ngrp:star_plus_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/zGHxmcjK/Star-Gold-2011.png" group-title="",STAR GOLD
+http://ott.bingebd.com:443/live/ngrp:star_gold_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/zGHxmcjK/Star-Gold-2011.png" group-title="",STAR GOLD 2
+http://45.249.187.238:8081/hls/tsl-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/WbBMZbGq/image.png" group-title="",Colors HD
+http://robi.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/Zqc3X816/Zee-TV-2018.png" group-title="",ZEE TV
+http://robi.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/63P7NYz4/8-80870-zee-cinema-channel-logo-hd-png-download.jpg" group-title="",ZEE cinema
+http://robi.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/63P7NYz4/8-80870-zee-cinema-channel-logo-hd-png-download.jpg" group-title="",ZEE Action
+http://45.249.187.238:8081/hls/tsl-3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/qvgvp8h8/Zeeclassic-new.png" group-title="",ZEE Classic
+http://robi.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/63hXr34W/Bollywood-HD-logo2018-655.png" group-title="",BollyWood Hd
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/Qd7vgtv2/Star-Bharat-Official-Logo.jpg" group-title="",Star Bharat
+http://robi.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/sftkM7NY/97118aecc0e651e6.jpg" group-title="",Bollywood Classic
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/gkHgGhFk/download.png" group-title="",Movie kingdom
+http://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/9FCBgfR3/large-16-9.jpg" group-title="",Shemaroo Bollywood Premier
+http://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/wTqhcbZg/download-1.png" group-title="",B4U Music
+http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/RCHPDFMG/download.jpg" group-title="",Zing
+http://robi.iptv.digijadoo.net/live/zing/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/rsFKW7mH/Star-World.png" group-title="",Star World
+http://robi.iptv.digijadoo.net/live/star_world/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/W4vpgxY7/Sangeet-bangla.jpg" group-title="",Sangeet Bangla
+http://robi.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/FKHrT0mf/download-2.png" group-title="",Zoom
+http://robi.iptv.digijadoo.net/live/zoom/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/jSGcX4yc/MTV-Beats-Logo.png" group-title="",MTV Beats
+http://robi.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/K8qgkfx0/download.png" group-title="",AXN
+http://210.210.155.35/uq2663/h/h141/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/NjF6Q4nk/download.png" group-title="",HBO
+http://45.249.187.238:8081/hls/new13.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/K8qgkfx0/download.png" group-title="",Fashion Tv
+http://a.jsrdn.com/broadcast/ftv2_2/-0800/c.m3u8
