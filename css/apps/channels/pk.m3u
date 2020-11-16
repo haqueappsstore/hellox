@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Star Jalsha
-http://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
+http://103.141.66.36/bpk-tv/10234/default/index.m3u8
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,ETV
 http://103.141.66.36/bpk-tv/10006/default/index.m3u8
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,ZEE ETC
