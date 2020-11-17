@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/YSFGwJhc/Nickelodeon-Sonic-logo.png" group-title="",Nick Sonic Bangla
-http://ott.bingebd.com:443/live/ngrp:sonic_all/playlist.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/L6hsprby/640px-Nick-Jr.png" group-title="",Nick JR.
 http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/fy1QZgVF/Nick-logo-2005.png" group-title="",Nick
