@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.postimg.cc/9MzkxB72/logo.png" tvg-country="INT" tvg-url="" group-title="XXX",Download From Play Store: Adult Tv: Xstreams Hot 24/7 Warm Your Life
+http://mamaapps.github.io/apps/adultv.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",XXX: Alba XXX 1
 http://5f.niobzca.cf:8080/live/Joao/123/111433.m3u8
 
@@ -294,7 +296,7 @@ rtmp://edge2.everyon.tv/etv2sb/phd992
 rtmp://edge2.everyon.tv/etv2sb/phd993
 #EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW 13/05",LiveSex Latinas
 http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
-#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW 13/05",Olal·
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW 13/05",Olal√°
 http://hlsstr04.svc.iptv.rt.ru/hls/CH_OLALA/variant.m3u8?version=2
 #EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW 13/05",Passiexxx
 http://publish.thewebstream.co:1935/leved/_definst_/passiexxx/playlist.m3u8
@@ -646,7 +648,7 @@ rtmp://$OPT:rtmp-raw=rtmp://edge-05.livestreamcast.org:1935/Brasileirinhas/Brasi
 rtmp://$OPT:rtmp-raw=rtmp://edge-05.livestreamcast.org:8082/brasileirinhas2/brasileirinhas2/ playpath=brasileirinhas2 swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf pageUrl=http://livestreamcast.org/embed.php?c=brasileirinhas&vw=100%&vh=100%
 #EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="18+ LIVE", Brasileirinhas HD2
 rtmp://$OPT:rtmp-raw=rtmp://edge-05.livestreamcast.org:8082/brasileirinhas2/brasileirinhas2 swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf pageUrl=http://livestreamcast.org/embed.php?c=brasileirinhas&vw=100%&vh=100%
-#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="18+ LIVE", Sex PrivÈ
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="18+ LIVE", Sex Priv√©
 http://cdn-edge01.livestreamcast.org:8081/erotic/phd61/chunklist_w1372963382.m3u8
 #EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="18+ LIVE", Playboy
 http://cdn-edge01.livestreamcast.org:8081/erotic/phd499/chunklist_w875156738.m3u8
