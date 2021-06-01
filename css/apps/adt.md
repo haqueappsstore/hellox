@@ -13,6 +13,7 @@ Non of the streams/videos are hosted on this website. All content is copyright o
 	<tbody>
 		<tr><td align="left">Live 24/7</td><td align="right">1</td><td align="left"><code>https://rawsolutionbd.github.io/hellox/css/apps/adt.m3u</code></td></tr>
 		<tr><td align="left">Live 24/7</td><td align="right">1</td><td align="left"><code>https://rawsolutionbd.github.io/hellox/css/apps/adt2.m3u</code></td></tr>
+		<tr><td align="left">Live 24/7 3</td><td align="right">1</td><td align="left"><code>https://rawsolutionbd.github.io/hellox/css/apps/channels/tests.m3u</code></td></tr>
 <tr><td align="left">VOD</td><td align="right">1</td><td align="left"><code>https://rawsolutionbd.github.io/hellox/css/apps/adtvod.m3u</code></td></tr>
 		
 	</tbody>
